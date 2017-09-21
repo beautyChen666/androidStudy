@@ -14,7 +14,7 @@ public class Person{
 
     public static void main(String[] args) {
        Person p=new Person();
-        Log.v(TAG,p.name);
+//        Log.v(TAG,p.name);
     }
     static {
         sex="女";
